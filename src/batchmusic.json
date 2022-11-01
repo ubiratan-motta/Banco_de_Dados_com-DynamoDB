@@ -1,0 +1,114 @@
+{
+    "Musica": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Jorge Aragão"},
+                  "TituloMusica": {"S": "Coisa de Pele"},
+                  "TituloAlbum": {"S": "Ao Vivo 1999"},
+                  "AnoMusica": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Jorge Aragão"},
+                  "TituloMusica": {"S": "Ave Maria"},
+                  "TituloAlbum": {"S": "Ao Vivo 1999"},
+                  "AnoMusica": {"S": "1999"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Jorge Aragão"},
+                  "TituloMusica": {"S": "Ponta de dor"},
+                  "TituloAlbum": {"S": "Ao Vivo 1999"},
+                  "AnoMusica": {"S": "1999"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Jorge Aragão"},
+                  "TituloMusica": {"S": "Enredo do meu samba"},
+                  "TituloAlbum": {"S": "Ao Vivo 1999"},
+                  "AnoMusica": {"S": "1999"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Jorge Aragão"},
+                  "TituloMusica": {"S": "Feitio de Paixão"},
+                  "TituloAlbum": {"S": "Ao Vivo 1999"},
+                  "AnoMusica": {"S": "1999"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Zeca Pagodinho"},
+                  "TituloMusica": {"S": "Quando eu Contar(iaiá)"},
+                  "TituloAlbum": {"S": "Acústico MTV: Zeca Pagodinho"},
+                  "AnoMusica": {"S": "2003"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Zeca Pagodinho"},
+                  "TituloMusica": {"S": "Lama nas Ruas"},
+                  "TituloAlbum": {"S": "Acústico MTV: Zeca Pagodinho"},
+                  "AnoMusica": {"S": "2003"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Zeca Pagodinho"},
+                  "TituloMusica": {"S": "Maneco Telecoteco"},
+                  "TituloAlbum": {"S": "Acústico MTV: Zeca Pagodinho"},
+                  "AnoMusica": {"S": "2003"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Dudu Nobre"},
+                  "TituloMusica": {"S": "Agua da Minha Sede"},
+                  "TituloAlbum": {"S": "Dudu Nobre Ao Vivo"},
+                  "AnoMusica": {"S": "2004"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Dudu Nobre"},
+                  "TituloMusica": {"S": "A Grande Familia"},
+                  "TituloAlbum": {"S": "Dudu Nobre Ao Vivo"},
+                  "AnoMusica": {"S": "2004"}
+                }
+            }
+        },
+	{
+            "PutRequest": {
+                "Item": {
+                  "Artista": {"S": "Dudu Nobre"},
+                  "TituloMusica": {"S": "Tempo de Don Don"},
+                  "TituloAlbum": {"S": "Dudu Nobre Ao Vivo"},
+                  "AnoMusica": {"S": "2004"}
+                }
+            }
+        }
+      ]
+}
